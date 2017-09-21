@@ -1,0 +1,7 @@
+{
+    "files.insertFinalNewline": true,
+    "editor.tabSize": 2,
+    "editor.minimap.enabled": false,
+    "editor.wordWrap": "on",
+    "editor.formatOnSave": true
+}
