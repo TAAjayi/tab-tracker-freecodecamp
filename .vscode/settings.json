@@ -3,5 +3,7 @@
     "editor.tabSize": 2,
     "editor.minimap.enabled": false,
     "editor.wordWrap": "on",
-    "editor.formatOnSave": true
+    "editor.formatOnSave": false,
+    "editor.formatOnType": false,
+    "editor.formatOnPaste": false
 }
